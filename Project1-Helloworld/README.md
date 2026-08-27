@@ -21,5 +21,6 @@ This is my first Python program. It prints a message to the screen.
 - Add comments
 
 ##Author
+
 Created by Olivia Dasenbrock as part of my Computer Science 1 coursework.
 
