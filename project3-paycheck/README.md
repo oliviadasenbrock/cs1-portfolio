@@ -17,5 +17,8 @@ This is my third Python Program. It calculates what the user's gross amount is o
 - Understand code quicker
 - Use more complex if statements
 
+## Screenshot
+Screenshot(5).png
+
 ## Author
 Created by Olivia Dasenbrock as part of my Computer Science 1 coursework.
