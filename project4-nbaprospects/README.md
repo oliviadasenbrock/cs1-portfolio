@@ -20,5 +20,8 @@ This is my fourth Python program. It calculates the chance of the player being i
 - Not to confuse == with =
 - Using while loop
 
+## Screenshot
+Screenshot(7).png
+
 ## Author
 Created by Olivia Dasenbrock as part of my Computer Science 1 course work.
