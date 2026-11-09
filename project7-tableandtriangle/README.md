@@ -20,5 +20,8 @@ This is my seventh Python program. It prints a rectangle and triangle of asteris
 - Use print's sep Keyword Argument
 - Use a break statement
 
+## Screenshot
+Screenshot(4).png
+
 ## Author
 Created by Olivia Dasenbrock as part of my Computer Science 1 coursework
