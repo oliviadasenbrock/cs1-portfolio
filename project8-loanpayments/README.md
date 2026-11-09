@@ -20,5 +20,8 @@ This is my eighth Python program. It prints a monthly loan payment after receivi
 - Use Pseudorandom Numbers
 - Use a break statement
 
+## Screenshot
+Screenshot(2).png
+
 ## Author
 Created by Olivia Dasenbrock as part of my Computer Science 1 coursework
