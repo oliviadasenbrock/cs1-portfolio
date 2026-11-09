@@ -19,6 +19,9 @@ This is my fifth program. It reads three integers and determines if they could b
 - Control-statement Nesting
 - If...Else Statements
 
+## Screenshot
+Screenshot(6).png
+
 ## Author
 
 Created by Olivia Dasenbrock as part of my Computer Science 1 course-work
