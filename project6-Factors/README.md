@@ -20,5 +20,8 @@ This is my sixth Python Program. It prompts the user for 3 values; the first int
 - Using range function
 - Using function print's end
 
+## Screenshot
+Screenshot(3).png
+
 ## Author
 Created by Olivia Dasenbrock as part of my Computer Science 1 course-work
